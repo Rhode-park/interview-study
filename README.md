@@ -35,12 +35,12 @@ ex) [Andrew] 앱이 시작할 때 main.c 에 있는 UIApplicationMain 함수에 
 |스터디 1채널|스터디 2채널|스터디 3채널|시간|
 |:---:|:---:|:---:|:---:|
 |Andrew, 리지|Harry, Rhode|송준, 릴라|13:40 ~ 14:00|
-|Andrew, Harry|리지, 송준|Rhode, 릴라|14:10 ~ 14:30|
-|Andrew, Rhode|리지, 릴라|Harry, 송준|14:40 ~ 15:00|
-|Andrew, 송준|리지, Rhode|Harry, 릴라|15:10 ~ 15:30|
-|Andrew, 릴라|리지, Harry|Rhode, 송준|15:40 ~ 16:00|
+|Andrew, Harry|리지, 송준|Rhode, 릴라|14:00 ~ 14:20|
+|Andrew, Rhode|리지, 릴라|Harry, 송준|14:20 ~ 14:40|
+|Andrew, 송준|리지, Rhode|Harry, 릴라|14:50 ~ 15:10|
+|Andrew, 릴라|리지, Harry|Rhode, 송준|15:10 ~ 15:30|
 
-16:00 ~ 16:30 총정리, 질문, 회고록 작성, 다음회차 질문 주제 선정
+15:30 ~ 16:00 총정리, 질문, 회고록 작성, 다음회차 질문 주제 선정
 
 <br />
 
